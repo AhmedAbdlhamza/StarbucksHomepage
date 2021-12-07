@@ -1,1 +1,2 @@
 # StarbucksHomepage
+## project notes
