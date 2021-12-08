@@ -110,8 +110,8 @@ section a {
   gap: 2rem;
   justify-content: space-between;
 }
-.grid-reverse:first-child {
-  order: 2;
+.grid-reverse {
+  direction: rtl;
 }
 
 /*Buttons */
